@@ -1,0 +1,24 @@
+{
+  "baics":{
+    "name":"hanuman",
+    "email":"r@gmail.com",
+    "mobile":"+91-9876543210"
+  },
+"education":[
+  {
+  "degree":"b.tech",
+  "institution":"pscmr",
+  "data":["2014-18","79%"]
+},
+{
+"degree":"diploma",
+"institution":"kes",
+"data":["2014-18","88%"]
+},
+{
+"degree":"ssc",
+"institution":"pscmr",
+"data":["2014-18","8.7"]
+}
+]
+}
