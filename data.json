@@ -1,24 +1,53 @@
 {
-  "baics":{
-    "name":"hanuman",
-    "email":"r@gmail.com",
-    "mobile":"+91-9876543210"
+  "basics":{
+  "name":"valaparlarohini",
+  "email":"valaparlarohini@gmail.com",
+  "mobile":"+91-9876543210"
   },
-"education":[
+  "career":{
+  "info":" To be the part of a reputed organization which provides steady carrer growth along with job satisfaction,challenges and give value contribution in the success of organization."
+  },
+  "education":[
   {
-  "degree":"b.tech",
-  "institution":"pscmr",
-  "data":["2014-18","79%"]
-},
-{
-"degree":"diploma",
-"institution":"kes",
-"data":["2014-18","88%"]
-},
-{
-"degree":"ssc",
-"institution":"pscmr",
-"data":["2014-18","8.7"]
-}
+  "degree":"B.Tech",
+  "Institute":"PSCMR",
+  "data":["2015-19","79%"]
+  },
+  {
+  "degree":"Intermediate/Diploma",
+  "Institute":"k.e.s polytechnic",
+  "data":["2013-15","87%"]
+  },
+  {
+  "degree":"S.S.C",
+  "Institute":"z.p.h.school",
+  "data":["2012-13","8.7(G.P.A)"]
+  }
+],
+"achievements":[
+  {
+    "name":"Awarded as <b>2<sup>nd</sup>prize</b> in <q>Throw ball</q>"
+  },
+  {
+    "name":"Awarded as <strong>1<sup>st</sup>prize</strong> in <q>ppt</q>"
+  }
+],
+"skills":[
+  {
+    "name":"programming languages ",
+    "data":["c","java","python","c++"]
+  },
+  {
+    "name":"databases ",
+    "data":["oracle","mysql"]
+  },
+  {
+    "name":"web technologies ",
+    "data":["HTML","CSS","JavaScript"]
+  },
+  {
+    "name":"libraries and frameworks ",
+    "data":["jquery","codeigniter"]
+  }
 ]
 }
